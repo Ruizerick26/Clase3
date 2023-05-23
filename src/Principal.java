@@ -28,6 +28,7 @@ public class Principal {
         System.out.println("El nuevo año del genero rock es:"+Rock.getAnio());
         System.out.println("El nuevo año del genero salsa es:"+Salsa.getAnio());
         System.out.println("El nuevo año del genero vallenatoes:"+Vallenato.getAnio());
+        //hola a todos
 
 
     }
